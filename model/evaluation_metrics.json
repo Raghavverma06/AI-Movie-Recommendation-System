@@ -1,0 +1,20 @@
+{
+    "Content-Based": {
+        "RMSE": 1.25,
+        "MAE": 0.98,
+        "Coverage": 22.5,
+        "Latency_ms": 6.93
+    },
+    "Collaborative (SVD)": {
+        "RMSE": 0.7865,
+        "MAE": 0.6424,
+        "Coverage": 25.5,
+        "Latency_ms": 36.8
+    },
+    "Hybrid Engine": {
+        "RMSE": 0.755,
+        "MAE": 0.6103,
+        "Coverage": 26.9,
+        "Latency_ms": 147.26
+    }
+}
